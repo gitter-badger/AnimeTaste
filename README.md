@@ -2,6 +2,8 @@
 2
 3
 #AnimeTaste(全球动画精选)[![Build Status](https://travis-ci.org/daimajia/AnimeTaste.png?branch=master)](https://travis-ci.org/daimajia/AnimeTaste)
+
+[![Join the chat at https://gitter.im/capegf/AnimeTaste](https://badges.gitter.im/capegf/AnimeTaste.svg)](https://gitter.im/capegf/AnimeTaste?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [English](./README.md)
 
 ---------------------
